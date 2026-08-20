@@ -6,7 +6,7 @@ The solution follows the **Medallion Architecture**, consisting of Bronze, Silve
 
 ---
 
-## 🏗️ Data Architecture
+##  Data Architecture
 
 The project uses a three-layer Medallion Architecture:
 
